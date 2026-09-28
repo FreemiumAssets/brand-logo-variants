@@ -1,0 +1,39 @@
+{
+  "name": "Brand Logo Variants",
+  "version": "0.1.0",
+  "repository": "https://github.com/freemiumassets/brand-logo-variants",
+  "collection": "https://freemiumassets.com",
+  "license": "MIT",
+  "variants": ["primary", "black", "white", "outline"],
+  "specs": {
+    "format": "svg",
+    "primary": { "colors": "brand" },
+    "black": { "fill": "#000000" },
+    "white": { "fill": "#FFFFFF" },
+    "outline": { "stroke": "#000000", "strokeWidth": 5, "fill": "none" }
+  },
+  "brands": [
+    {
+      "slug": "canva",
+      "name": "Canva",
+      "website": "https://www.canva.com",
+      "variants": {
+        "primary": "logos/canva/primary.svg",
+        "black": "logos/canva/black.svg",
+        "white": "logos/canva/white.svg",
+        "outline": "logos/canva/outline.svg"
+      }
+    },
+    {
+      "slug": "figma",
+      "name": "Figma",
+      "website": "https://www.figma.com",
+      "variants": {
+        "primary": "logos/figma/primary.svg",
+        "black": "logos/figma/black.svg",
+        "white": "logos/figma/white.svg",
+        "outline": "logos/figma/outline.svg"
+      }
+    }
+  ]
+}
