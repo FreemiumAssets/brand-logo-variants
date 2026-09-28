@@ -76,7 +76,7 @@ The list grows through community contributions. Missing a brand? [Open a request
 ### Clone the repository
 
 ```bash
-git clone https://figma.com/freemiumassets/brand-logo-variants.git
+git clone https://github.com/freemiumassets/brand-logo-variants.git
 cd brand-logo-variants
 ```
 
