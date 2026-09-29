@@ -43,7 +43,7 @@ A colored logo looks wrong on a dark footer. A white logo disappears on a light 
 | :-- | :--: | :--: | :--: | :--: |
 | Canva | <img src="logos/canva/primary.svg" width="150" alt="Canva primary logo"> | <img src="logos/canva/black.svg" width="150" alt="Canva black logo"> | <img src="logos/canva/white.svg" width="150" alt="Canva white logo"> | <img src="logos/canva/outline.svg" width="150" alt="Canva outline logo"> |
 | Figma | <img src="logos/figma/primary.svg" width="150" alt="Figma primary logo"> | <img src="logos/figma/black.svg" width="150" alt="Figma black logo"> | <img src="logos/figma/white.svg" width="150" alt="Figma white logo"> | <img src="logos/figma/outline.svg" width="150" alt="Figma outline logo"> |
-
+| GitHub | <img src="logos/github/primary.svg" width="150" alt="GitHub primary logo"> | <img src="logos/github/black.svg" width="150" alt="GitHub black logo"> | <img src="logos/github/white.svg" width="150" alt="GitHub white logo"> | <img src="logos/github/outline.svg" width="150" alt="GitHub outline logo"> |
 ## Repository Structure
 
 ```
@@ -69,6 +69,7 @@ Each brand lives in its own folder, named in lowercase with hyphens (for example
 | :-- | :--: | :--: | :--: | :--: |
 | Canva | [primary](logos/canva/primary.svg) | [black](logos/canva/black.svg) | [white](logos/canva/white.svg) | [outline](logos/canva/outline.svg) |
 | Figma | [primary](logos/figma/primary.svg) | [black](logos/figma/black.svg) | [white](logos/figma/white.svg) | [outline](logos/figma/outline.svg) |
+| GitHub | [primary](logos/github/primary.svg) | [black](logos/github/black.svg) | [white](logos/github/white.svg) | [outline](logos/github/outline.svg) |
 <!-- AVAILABLE-BRANDS:END -->
 
 The list grows through community contributions. Missing a brand? [Open a request](../../issues/new) or [add it yourself](CONTRIBUTING.md).
