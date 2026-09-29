@@ -71,6 +71,17 @@
         "white": "logos/github/white.svg",
         "outline": "logos/github/outline.svg"
       }
+    },
+    {
+      "slug": "stripe",
+      "name": "Stripe",
+      "website": "https://stripe.com",
+      "variants": {
+        "primary": "logos/stripe/primary.svg",
+        "black": "logos/stripe/black.svg",
+        "white": "logos/stripe/white.svg",
+        "outline": "logos/stripe/outline.svg"
+      }
     }
   ]
 }
