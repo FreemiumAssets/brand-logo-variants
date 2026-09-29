@@ -99,9 +99,9 @@ Copy this into your pull request description:
 Keep commit messages short and descriptive:
 
 ```
-Add Notion logo variants
-Fix Figma white variant viewBox
-Update GitHub outline stroke width
+add Notion logo variants
+fix Figma white variant viewBox
+update GitHub outline stroke width
 ```
 
 Use one brand per pull request where possible. It makes review faster and easier to revert if something needs to change.

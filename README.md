@@ -64,10 +64,12 @@ Each brand lives in its own folder, named in lowercase with hyphens (for example
 
 ## Available Brands
 
+<!-- AVAILABLE-BRANDS:START -->
 | Brand | Primary | Black | White | Outline |
 | :-- | :--: | :--: | :--: | :--: |
 | Canva | [primary](logos/canva/primary.svg) | [black](logos/canva/black.svg) | [white](logos/canva/white.svg) | [outline](logos/canva/outline.svg) |
 | Figma | [primary](logos/figma/primary.svg) | [black](logos/figma/black.svg) | [white](logos/figma/white.svg) | [outline](logos/figma/outline.svg) |
+<!-- AVAILABLE-BRANDS:END -->
 
 The list grows through community contributions. Missing a brand? [Open a request](../../issues/new) or [add it yourself](CONTRIBUTING.md).
 
