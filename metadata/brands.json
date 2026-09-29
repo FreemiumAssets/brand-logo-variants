@@ -40,6 +40,17 @@
       }
     },
     {
+      "slug": "docker",
+      "name": "Docker",
+      "website": "https://www.docker.com",
+      "variants": {
+        "primary": "logos/docker/primary.svg",
+        "black": "logos/docker/black.svg",
+        "white": "logos/docker/white.svg",
+        "outline": "logos/docker/outline.svg"
+      }
+    },
+    {
       "slug": "figma",
       "name": "Figma",
       "website": "https://www.figma.com",
@@ -53,7 +64,7 @@
     {
       "slug": "github",
       "name": "GitHub",
-      "website": "https://github.com/",
+      "website": "https://github.com",
       "variants": {
         "primary": "logos/github/primary.svg",
         "black": "logos/github/black.svg",
