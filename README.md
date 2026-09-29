@@ -73,6 +73,7 @@ Each brand lives in its own folder, named in lowercase with hyphens (for example
 | Figma | [primary](logos/figma/primary.svg) | [black](logos/figma/black.svg) | [white](logos/figma/white.svg) | [outline](logos/figma/outline.svg) |
 | GitHub | [primary](logos/github/primary.svg) | [black](logos/github/black.svg) | [white](logos/github/white.svg) | [outline](logos/github/outline.svg) |
 | Stripe | [primary](logos/stripe/primary.svg) | [black](logos/stripe/black.svg) | [white](logos/stripe/white.svg) | [outline](logos/stripe/outline.svg) |
+| Wise | [primary](logos/wise/primary.svg) | [black](logos/wise/black.svg) | [white](logos/wise/white.svg) | [outline](logos/wise/outline.svg) |
 <!-- AVAILABLE-BRANDS:END -->
 
 The list grows through community contributions. Missing a brand? [Open a request](../../issues/new) or [add it yourself](CONTRIBUTING.md).

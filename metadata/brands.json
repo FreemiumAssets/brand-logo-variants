@@ -82,6 +82,17 @@
         "white": "logos/stripe/white.svg",
         "outline": "logos/stripe/outline.svg"
       }
+    },
+    {
+      "slug": "wise",
+      "name": "Wise",
+      "website": "https://wise.com",
+      "variants": {
+        "primary": "logos/wise/primary.svg",
+        "black": "logos/wise/black.svg",
+        "white": "logos/wise/white.svg",
+        "outline": "logos/wise/outline.svg"
+      }
     }
   ]
 }
