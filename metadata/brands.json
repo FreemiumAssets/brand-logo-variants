@@ -29,6 +29,17 @@
   },
   "brands": [
     {
+      "slug": "bitbucket",
+      "name": "Bitbucket",
+      "website": "https://bitbucket.org",
+      "variants": {
+        "primary": "logos/bitbucket/primary.svg",
+        "black": "logos/bitbucket/black.svg",
+        "white": "logos/bitbucket/white.svg",
+        "outline": "logos/bitbucket/outline.svg"
+      }
+    },
+    {
       "slug": "canva",
       "name": "Canva",
       "website": "https://www.canva.com",
