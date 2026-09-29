@@ -84,6 +84,17 @@
       }
     },
     {
+      "slug": "gitlab",
+      "name": "Gitlab",
+      "website": "https://gitlab.com",
+      "variants": {
+        "primary": "logos/gitlab/primary.svg",
+        "black": "logos/gitlab/black.svg",
+        "white": "logos/gitlab/white.svg",
+        "outline": "logos/gitlab/outline.svg"
+      }
+    },
+    {
       "slug": "stripe",
       "name": "Stripe",
       "website": "https://stripe.com",
