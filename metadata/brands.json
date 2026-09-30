@@ -29,6 +29,17 @@
   },
   "brands": [
     {
+      "slug": "asana",
+      "name": "Asana",
+      "website": "https://asana.com",
+      "variants": {
+        "primary": "logos/asana/primary.svg",
+        "black": "logos/asana/black.svg",
+        "white": "logos/asana/white.svg",
+        "outline": "logos/asana/outline.svg"
+      }
+    },
+    {
       "slug": "bitbucket",
       "name": "Bitbucket",
       "website": "https://bitbucket.org",

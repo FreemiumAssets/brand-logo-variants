@@ -68,6 +68,7 @@ Each brand lives in its own folder, named in lowercase with hyphens (for example
 <!-- AVAILABLE-BRANDS:START -->
 | Brand | Primary | Black | White | Outline |
 | :-- | :--: | :--: | :--: | :--: |
+| Asana | [primary](logos/asana/primary.svg) | [black](logos/asana/black.svg) | [white](logos/asana/white.svg) | [outline](logos/asana/outline.svg) |
 | Bitbucket | [primary](logos/bitbucket/primary.svg) | [black](logos/bitbucket/black.svg) | [white](logos/bitbucket/white.svg) | [outline](logos/bitbucket/outline.svg) |
 | Canva | [primary](logos/canva/primary.svg) | [black](logos/canva/black.svg) | [white](logos/canva/white.svg) | [outline](logos/canva/outline.svg) |
 | Docker | [primary](logos/docker/primary.svg) | [black](logos/docker/black.svg) | [white](logos/docker/white.svg) | [outline](logos/docker/outline.svg) |
