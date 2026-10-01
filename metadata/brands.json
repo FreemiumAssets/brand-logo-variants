@@ -84,6 +84,17 @@
       }
     },
     {
+      "slug": "coca-cola",
+      "name": "Coca Cola",
+      "website": "https://www.coca-cola.com",
+      "variants": {
+        "primary": "logos/coca-cola/primary.svg",
+        "black": "logos/coca-cola/black.svg",
+        "white": "logos/coca-cola/white.svg",
+        "outline": "logos/coca-cola/outline.svg"
+      }
+    },
+    {
       "slug": "docker",
       "name": "Docker",
       "website": "https://www.docker.com",

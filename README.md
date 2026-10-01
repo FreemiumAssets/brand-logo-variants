@@ -44,7 +44,7 @@ A colored logo looks wrong on a dark footer. A white logo disappears on a light 
 | Asana | <img src="logos/asana/primary.svg" width="150" alt="Asana primary logo"> | <img src="logos/asana/black.svg" width="150" alt="Asana black logo"> | <img src="logos/asana/white.svg" width="150" alt="Asana white logo"> | <img src="logos/asana/outline.svg" width="150" alt="Asana outline logo"> |
 | Binance | <img src="logos/binance/primary.svg" width="150" alt="Binance primary logo"> | <img src="logos/binance/black.svg" width="150" alt="Binance black logo"> | <img src="logos/binance/white.svg" width="150" alt="Binance white logo"> | <img src="logos/binance/outline.svg" width="150" alt="Binance outline logo"> |
 | Canva | <img src="logos/canva/primary.svg" width="150" alt="Canva primary logo"> | <img src="logos/canva/black.svg" width="150" alt="Canva black logo"> | <img src="logos/canva/white.svg" width="150" alt="Canva white logo"> | <img src="logos/canva/outline.svg" width="150" alt="Canva outline logo"> |
-| Figma | <img src="logos/figma/primary.svg" width="150" alt="Figma primary logo"> | <img src="logos/figma/black.svg" width="150" alt="Figma black logo"> | <img src="logos/figma/white.svg" width="150" alt="Figma white logo"> | <img src="logos/figma/outline.svg" width="150" alt="Figma outline logo"> |
+| Coca Cola | <img src="logos/coca-cola/primary.svg" width="150" alt="Coca Cola primary logo"> | <img src="logos/coca-cola/black.svg" width="150" alt="Coca Cola black logo"> | <img src="logos/coca-cola/white.svg" width="150" alt="Coca Cola white logo"> | <img src="logos/coca-cola/outline.svg" width="150" alt="Coca Cola outline logo"> |
 | GitHub | <img src="logos/github/primary.svg" width="150" alt="GitHub primary logo"> | <img src="logos/github/black.svg" width="150" alt="GitHub black logo"> | <img src="logos/github/white.svg" width="150" alt="GitHub white logo"> | <img src="logos/github/outline.svg" width="150" alt="GitHub outline logo"> |
 | Stripe | <img src="logos/stripe/primary.svg" width="150" alt="Stripe primary logo"> | <img src="logos/stripe/black.svg" width="150" alt="Stripe black logo"> | <img src="logos/stripe/white.svg" width="150" alt="Stripe white logo"> | <img src="logos/stripe/outline.svg" width="150" alt="Stripe outline logo"> |
 ## Repository Structure
@@ -56,7 +56,7 @@ logos/
 │   ├── black.svg
 │   ├── white.svg
 │   └── outline.svg
-├── figma/
+├── coca-cola/
 │   ├── primary.svg
 │   ├── black.svg
 │   ├── white.svg
@@ -75,6 +75,7 @@ Each brand lives in its own folder, named in lowercase with hyphens (for example
 | Bitbucket | [primary](logos/bitbucket/primary.svg) | [black](logos/bitbucket/black.svg) | [white](logos/bitbucket/white.svg) | [outline](logos/bitbucket/outline.svg) |
 | Canva | [primary](logos/canva/primary.svg) | [black](logos/canva/black.svg) | [white](logos/canva/white.svg) | [outline](logos/canva/outline.svg) |
 | Clickup | [primary](logos/clickup/primary.svg) | [black](logos/clickup/black.svg) | [white](logos/clickup/white.svg) | [outline](logos/clickup/outline.svg) |
+| Coca Cola | [primary](logos/coca-cola/primary.svg) | [black](logos/coca-cola/black.svg) | [white](logos/coca-cola/white.svg) | [outline](logos/coca-cola/outline.svg) |
 | Docker | [primary](logos/docker/primary.svg) | [black](logos/docker/black.svg) | [white](logos/docker/white.svg) | [outline](logos/docker/outline.svg) |
 | Figma | [primary](logos/figma/primary.svg) | [black](logos/figma/black.svg) | [white](logos/figma/white.svg) | [outline](logos/figma/outline.svg) |
 | GitHub | [primary](logos/github/primary.svg) | [black](logos/github/black.svg) | [white](logos/github/white.svg) | [outline](logos/github/outline.svg) |
