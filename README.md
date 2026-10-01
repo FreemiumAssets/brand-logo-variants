@@ -41,6 +41,7 @@ A colored logo looks wrong on a dark footer. A white logo disappears on a light 
 
 | Brand | Primary | Black | White | Outline |
 | :-- | :--: | :--: | :--: | :--: |
+| Binance | <img src="logos/binance/primary.svg" width="150" alt="Binance primary logo"> | <img src="logos/binance/black.svg" width="150" alt="Binance black logo"> | <img src="logos/binance/white.svg" width="150" alt="Binance white logo"> | <img src="logos/binance/outline.svg" width="150" alt="Binance outline logo"> |
 | Canva | <img src="logos/canva/primary.svg" width="150" alt="Canva primary logo"> | <img src="logos/canva/black.svg" width="150" alt="Canva black logo"> | <img src="logos/canva/white.svg" width="150" alt="Canva white logo"> | <img src="logos/canva/outline.svg" width="150" alt="Canva outline logo"> |
 | Figma | <img src="logos/figma/primary.svg" width="150" alt="Figma primary logo"> | <img src="logos/figma/black.svg" width="150" alt="Figma black logo"> | <img src="logos/figma/white.svg" width="150" alt="Figma white logo"> | <img src="logos/figma/outline.svg" width="150" alt="Figma outline logo"> |
 | GitHub | <img src="logos/github/primary.svg" width="150" alt="GitHub primary logo"> | <img src="logos/github/black.svg" width="150" alt="GitHub black logo"> | <img src="logos/github/white.svg" width="150" alt="GitHub white logo"> | <img src="logos/github/outline.svg" width="150" alt="GitHub outline logo"> |
@@ -69,6 +70,7 @@ Each brand lives in its own folder, named in lowercase with hyphens (for example
 | Brand | Primary | Black | White | Outline |
 | :-- | :--: | :--: | :--: | :--: |
 | Asana | [primary](logos/asana/primary.svg) | [black](logos/asana/black.svg) | [white](logos/asana/white.svg) | [outline](logos/asana/outline.svg) |
+| Binance | [primary](logos/binance/primary.svg) | [black](logos/binance/black.svg) | [white](logos/binance/white.svg) | [outline](logos/binance/outline.svg) |
 | Bitbucket | [primary](logos/bitbucket/primary.svg) | [black](logos/bitbucket/black.svg) | [white](logos/bitbucket/white.svg) | [outline](logos/bitbucket/outline.svg) |
 | Canva | [primary](logos/canva/primary.svg) | [black](logos/canva/black.svg) | [white](logos/canva/white.svg) | [outline](logos/canva/outline.svg) |
 | Clickup | [primary](logos/clickup/primary.svg) | [black](logos/clickup/black.svg) | [white](logos/clickup/white.svg) | [outline](logos/clickup/outline.svg) |

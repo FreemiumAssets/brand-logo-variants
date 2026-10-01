@@ -40,6 +40,17 @@
       }
     },
     {
+      "slug": "binance",
+      "name": "Binance",
+      "website": "https://binance.com",
+      "variants": {
+        "primary": "logos/binance/primary.svg",
+        "black": "logos/binance/black.svg",
+        "white": "logos/binance/white.svg",
+        "outline": "logos/binance/outline.svg"
+      }
+    },
+    {
       "slug": "bitbucket",
       "name": "Bitbucket",
       "website": "https://bitbucket.org",
