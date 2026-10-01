@@ -71,6 +71,7 @@ Each brand lives in its own folder, named in lowercase with hyphens (for example
 | Asana | [primary](logos/asana/primary.svg) | [black](logos/asana/black.svg) | [white](logos/asana/white.svg) | [outline](logos/asana/outline.svg) |
 | Bitbucket | [primary](logos/bitbucket/primary.svg) | [black](logos/bitbucket/black.svg) | [white](logos/bitbucket/white.svg) | [outline](logos/bitbucket/outline.svg) |
 | Canva | [primary](logos/canva/primary.svg) | [black](logos/canva/black.svg) | [white](logos/canva/white.svg) | [outline](logos/canva/outline.svg) |
+| Clickup | [primary](logos/clickup/primary.svg) | [black](logos/clickup/black.svg) | [white](logos/clickup/white.svg) | [outline](logos/clickup/outline.svg) |
 | Docker | [primary](logos/docker/primary.svg) | [black](logos/docker/black.svg) | [white](logos/docker/white.svg) | [outline](logos/docker/outline.svg) |
 | Figma | [primary](logos/figma/primary.svg) | [black](logos/figma/black.svg) | [white](logos/figma/white.svg) | [outline](logos/figma/outline.svg) |
 | GitHub | [primary](logos/github/primary.svg) | [black](logos/github/black.svg) | [white](logos/github/white.svg) | [outline](logos/github/outline.svg) |

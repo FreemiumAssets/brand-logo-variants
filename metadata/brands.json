@@ -62,6 +62,17 @@
       }
     },
     {
+      "slug": "clickup",
+      "name": "Clickup",
+      "website": "https://clickup.com",
+      "variants": {
+        "primary": "logos/clickup/primary.svg",
+        "black": "logos/clickup/black.svg",
+        "white": "logos/clickup/white.svg",
+        "outline": "logos/clickup/outline.svg"
+      }
+    },
+    {
       "slug": "docker",
       "name": "Docker",
       "website": "https://www.docker.com",
