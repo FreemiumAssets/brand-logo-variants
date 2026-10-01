@@ -41,6 +41,7 @@ A colored logo looks wrong on a dark footer. A white logo disappears on a light 
 
 | Brand | Primary | Black | White | Outline |
 | :-- | :--: | :--: | :--: | :--: |
+| Asana | <img src="logos/asana/primary.svg" width="150" alt="Asana primary logo"> | <img src="logos/asana/black.svg" width="150" alt="Asana black logo"> | <img src="logos/asana/white.svg" width="150" alt="Asana white logo"> | <img src="logos/asana/outline.svg" width="150" alt="Asana outline logo"> |
 | Binance | <img src="logos/binance/primary.svg" width="150" alt="Binance primary logo"> | <img src="logos/binance/black.svg" width="150" alt="Binance black logo"> | <img src="logos/binance/white.svg" width="150" alt="Binance white logo"> | <img src="logos/binance/outline.svg" width="150" alt="Binance outline logo"> |
 | Canva | <img src="logos/canva/primary.svg" width="150" alt="Canva primary logo"> | <img src="logos/canva/black.svg" width="150" alt="Canva black logo"> | <img src="logos/canva/white.svg" width="150" alt="Canva white logo"> | <img src="logos/canva/outline.svg" width="150" alt="Canva outline logo"> |
 | Figma | <img src="logos/figma/primary.svg" width="150" alt="Figma primary logo"> | <img src="logos/figma/black.svg" width="150" alt="Figma black logo"> | <img src="logos/figma/white.svg" width="150" alt="Figma white logo"> | <img src="logos/figma/outline.svg" width="150" alt="Figma outline logo"> |
@@ -191,7 +192,7 @@ If you are a rights holder and would like a logo corrected or removed, please [o
 
 ## More Brand Logos
 
-Want to browse without cloning a repository? The complete collection is also available on [FreemiumAssets](https://freemiumassets.com), where you can preview logos and download the variants you need.
+Want to browse without cloning a repository? The complete collection is also available on [FreemiumAssets.com](https://freemiumassets.com), where you can preview logos and download the variants you need.
 
 ---
 
