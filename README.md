@@ -46,6 +46,7 @@ A colored logo looks wrong on a dark footer. A white logo disappears on a light 
 | Canva | <img src="logos/canva/primary.svg" width="150" alt="Canva primary logo"> | <img src="logos/canva/black.svg" width="150" alt="Canva black logo"> | <img src="logos/canva/white.svg" width="150" alt="Canva white logo"> | <img src="logos/canva/outline.svg" width="150" alt="Canva outline logo"> |
 | Coca Cola | <img src="logos/coca-cola/primary.svg" width="150" alt="Coca Cola primary logo"> | <img src="logos/coca-cola/black.svg" width="150" alt="Coca Cola black logo"> | <img src="logos/coca-cola/white.svg" width="150" alt="Coca Cola white logo"> | <img src="logos/coca-cola/outline.svg" width="150" alt="Coca Cola outline logo"> |
 | GitHub | <img src="logos/github/primary.svg" width="150" alt="GitHub primary logo"> | <img src="logos/github/black.svg" width="150" alt="GitHub black logo"> | <img src="logos/github/white.svg" width="150" alt="GitHub white logo"> | <img src="logos/github/outline.svg" width="150" alt="GitHub outline logo"> |
+| OpenAI | <img src="logos/openai/primary.svg" width="150" alt="OpenAI primary logo"> | <img src="logos/openai/black.svg" width="150" alt="OpenAI black logo"> | <img src="logos/openai/white.svg" width="150" alt="OpenAI white logo"> | <img src="logos/openai/outline.svg" width="150" alt="OpenAI outline logo"> |
 | Stripe | <img src="logos/stripe/primary.svg" width="150" alt="Stripe primary logo"> | <img src="logos/stripe/black.svg" width="150" alt="Stripe black logo"> | <img src="logos/stripe/white.svg" width="150" alt="Stripe white logo"> | <img src="logos/stripe/outline.svg" width="150" alt="Stripe outline logo"> |
 ## Repository Structure
 
@@ -80,6 +81,7 @@ Each brand lives in its own folder, named in lowercase with hyphens (for example
 | Figma | [primary](logos/figma/primary.svg) | [black](logos/figma/black.svg) | [white](logos/figma/white.svg) | [outline](logos/figma/outline.svg) |
 | GitHub | [primary](logos/github/primary.svg) | [black](logos/github/black.svg) | [white](logos/github/white.svg) | [outline](logos/github/outline.svg) |
 | Gitlab | [primary](logos/gitlab/primary.svg) | [black](logos/gitlab/black.svg) | [white](logos/gitlab/white.svg) | [outline](logos/gitlab/outline.svg) |
+| Openai | [primary](logos/openai/primary.svg) | [black](logos/openai/black.svg) | [white](logos/openai/white.svg) | [outline](logos/openai/outline.svg) |
 | Stripe | [primary](logos/stripe/primary.svg) | [black](logos/stripe/black.svg) | [white](logos/stripe/white.svg) | [outline](logos/stripe/outline.svg) |
 | Wise | [primary](logos/wise/primary.svg) | [black](logos/wise/black.svg) | [white](logos/wise/white.svg) | [outline](logos/wise/outline.svg) |
 <!-- AVAILABLE-BRANDS:END -->

@@ -139,6 +139,17 @@
       }
     },
     {
+      "slug": "openai",
+      "name": "Openai",
+      "website": "https://openai.com",
+      "variants": {
+        "primary": "logos/openai/primary.svg",
+        "black": "logos/openai/black.svg",
+        "white": "logos/openai/white.svg",
+        "outline": "logos/openai/outline.svg"
+      }
+    },
+    {
       "slug": "stripe",
       "name": "Stripe",
       "website": "https://stripe.com",
