@@ -74,7 +74,7 @@
     },
     {
       "slug": "clickup",
-      "name": "Clickup",
+      "name": "ClickUp",
       "website": "https://clickup.com",
       "variants": {
         "primary": "logos/clickup/primary.svg",
@@ -139,8 +139,19 @@
       }
     },
     {
+      "slug": "kfc",
+      "name": "KFC",
+      "website": "https://global.kfc.com",
+      "variants": {
+        "primary": "logos/kfc/primary.svg",
+        "black": "logos/kfc/black.svg",
+        "white": "logos/kfc/white.svg",
+        "outline": "logos/kfc/outline.svg"
+      }
+    },
+    {
       "slug": "openai",
-      "name": "Openai",
+      "name": "OpenAI",
       "website": "https://openai.com",
       "variants": {
         "primary": "logos/openai/primary.svg",
