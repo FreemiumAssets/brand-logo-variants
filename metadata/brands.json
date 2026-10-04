@@ -139,6 +139,17 @@
       }
     },
     {
+      "slug": "javascript",
+      "name": "JavaScript",
+      "website": "https://www.javascript.com",
+      "variants": {
+        "primary": "logos/javascript/primary.svg",
+        "black": "logos/javascript/black.svg",
+        "white": "logos/javascript/white.svg",
+        "outline": "logos/javascript/outline.svg"
+      }
+    },
+    {
       "slug": "kfc",
       "name": "KFC",
       "website": "https://global.kfc.com",
