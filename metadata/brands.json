@@ -161,6 +161,17 @@
       }
     },
     {
+      "slug": "nodejs",
+      "name": "Node.js",
+      "website": "https://nodejs.org",
+      "variants": {
+        "primary": "logos/nodejs/primary.svg",
+        "black": "logos/nodejs/black.svg",
+        "white": "logos/nodejs/white.svg",
+        "outline": "logos/nodejs/outline.svg"
+      }
+    },
+    {
       "slug": "openai",
       "name": "OpenAI",
       "website": "https://openai.com",
